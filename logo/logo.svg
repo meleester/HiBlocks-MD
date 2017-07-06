@@ -9,14 +9,14 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="41.454208mm"
+   width="85.05529mm"
    height="44.728268mm"
-   viewBox="0 0 146.88499 158.48599"
+   viewBox="0 0 301.37701 158.48599"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="logo.svg"
-   inkscape:export-filename="/Users/moutault/Dropbox/hiblocksmd/logo-micro.png"
+   inkscape:export-filename="/Users/moutault/GitHub/HiBlocks-MD/logo/logo-mini.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.3535534"
-     inkscape:cx="465.50567"
-     inkscape:cy="-553.40358"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="139.78732"
+     inkscape:cy="281.15581"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -60,7 +60,7 @@
      inkscape:label="Calque 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(742.06281,70.76899)">
+     transform="translate(819.30884,-187.71701)">
     <g
        id="g8225"
        transform="translate(-426.38349,-57.242981)">
@@ -215,13 +215,6 @@
          y="-10.608036"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Monaco;-inkscape-font-specification:Monaco;fill:#ffffff;fill-opacity:1"
            id="tspan8124">[]()</tspan></tspan></text>
-    <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:10;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect8126"
-       width="106.885"
-       height="49.243"
-       x="-722.06281"
-       y="18.473995" />
     <rect
        y="446.203"
        x="-909.42859"
@@ -403,5 +396,12 @@
        width="300.37701"
        id="rect8335"
        style="opacity:0.93999999;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="18.473995"
+       x="-699.01587"
+       height="49.243"
+       width="83.837997"
+       id="rect8146"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:10;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   </g>
 </svg>
